@@ -1,7 +1,7 @@
 
 <div align="center">
 <a href="lahnan.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&weight=900&size=30&duration=2000&pause=3000&color=0C009C&center=true&random=true&width=450&height=100&lines=Lahnan;Github+Pages" alt="Typing SVG" /></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=lahnan.lahnan" alt="visitor badge"/>
+<hr>
 <img src="https://avatars.githubusercontent.com/u/99069298?s=400&u=ff7ee5a6365a9907c78210e372622f087db0f29d&v=4)](https://avatars.githubusercontent.com/u/99069298?s=400&u=ff7ee5a6365a9907c78210e372622f087db0f29d&v=4">
 
 
