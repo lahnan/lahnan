@@ -1,12 +1,52 @@
-### Welcome 👋
+
+
+# Hello ✌️
 [![alt text](https://avatars.githubusercontent.com/u/99069298?s=400&u=ff7ee5a6365a9907c78210e372622f087db0f29d&v=4)](https://avatars.githubusercontent.com/u/99069298?s=400&u=ff7ee5a6365a9907c78210e372622f087db0f29d&v=4)
+My Name Is Lahnan 
 
-<hr>
-# My Name Is Lahnan 
-> My Hobby Is Learning Coding
 
-> My Age Is 11
+![Static Badge](https://img.shields.io/badge/github-pages?style=flat-square&logo=github&label=My&labelColor=%23&color=%23dd143b&link=https%3A%2F%2Fgithub.com%2Flahnan)
 
-My Portofolio
-lahnan.github.io
+![Static Badge](https://img.shields.io/badge/Site-pages?style=flat-square&logo=html5&label=My&labelColor=%23d1d1d1&color=%23dd143b&link=lahnan.github.io)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rubik_aer/)
+[![Youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://twitter.com/Rubik_aer/)
+[![Instagram](https://img.shields.io/badge/Instagram-C32E9B?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/Rubik_aer/)
+
+
+
+
+
+
+
+
+
+
+## 🤚 What My Made
+
+
+
+| Name | Link     | Description                |
+| :-------- | :------- | :------------------------- |
+| `Calctulator` | `https://lahnan.github.io/calculator/` | **Required**. Python |
+
+
+
+#### 🌐 My Web Page
+
+  - [Click me](lahnan.github.io)
+
+
+
+## 🙂Appendix
+
+Want to be Fullstack Developer and Game Developer
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, Php, Python, Unity...
 
