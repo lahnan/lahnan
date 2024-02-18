@@ -10,8 +10,8 @@ My Name Is Lahnan
 ![Static Badge](https://img.shields.io/badge/Site-pages?style=flat-square&logo=html5&label=My&labelColor=%23d1d1d1&color=%23dd143b&link=lahnan.github.io)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rubik_aer/)
-[![Youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://twitter.com/Rubik_aer/)
-[![Instagram](https://img.shields.io/badge/Instagram-C32E9B?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/Rubik_aer/)
+[![Youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCc6aR_GRKU8QJHFpr5DIs-w)
+[![Instagram](https://img.shields.io/badge/Instagram-C32E9B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubik_aeronly/)
 
 
 
