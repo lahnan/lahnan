@@ -38,10 +38,12 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm in the process of going to fullstack
 <div align="center">
 
 ![lahnan's Stats](https://github-readme-stats.vercel.app/api?username=lahnan&theme=dracula&show_icons=true&hide_border=false&count_private=false)
+
 ![lahnan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lahnan&theme=dracula&hide_border=false)
+
 ![lahnan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lahnan&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 </div>
