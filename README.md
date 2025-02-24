@@ -26,6 +26,16 @@ I'm Learning HTML CSS JS And Python
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lahnan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lahnan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/lahnan/lahnan/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/lahnan/count.svg?"  />
+</div>
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lahnan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
